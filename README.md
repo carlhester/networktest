@@ -1,4 +1,5 @@
 # network client/server 
 
-example from Go Programming Cookbook
+base example from Go Programming Cookbook
+
 
